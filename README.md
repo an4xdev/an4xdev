@@ -8,7 +8,7 @@ I like coding
 
 * 🌍  I'm based in Siedlce
 * ✉️  You can contact me at [michal.zuk30601@gmail.com](mailto:michal.zuk30601@gmail.com)
-* 🚀  I'm currently working on [SMMP](http://github.com/an4xdev/SMMP/tree/main)
+* 🚀  I'm currently working on anything
 * 🧠  I'm learning C# and Blazor Framework
 * ⚡  "Throughout Heaven and Earth... I alone am the Honored One."
 
