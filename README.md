@@ -8,7 +8,7 @@ I like coding
 
 * 🌍  I'm based in Siedlce
 * ✉️  You can contact me at [michal.zuk30601@gmail.com](mailto:michal.zuk30601@gmail.com)
-* 🚀  I'm currently working on anything
+* 🚀  I'm currently working on this [project](https://github.com/an4xdev/TrelloClone)
 * 🧠  I'm learning C# and Blazor Framework
 * ⚡  "Throughout Heaven and Earth... I alone am the Honored One."
 
