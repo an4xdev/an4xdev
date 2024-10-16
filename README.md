@@ -10,7 +10,7 @@ I like coding
 * ✉️  You can contact me at [michal.zuk30601@gmail.com](mailto:michal.zuk30601@gmail.com)
 * 🚀  I'm currently working on this [project](https://github.com/an4xdev/TestMaker)
 * 🧠  I'm learning C# and Blazor Framework
-* ⚡  "Throughout Heaven and Earth... I alone am the Honored One."
+* ⚡  🎰 "If you are unsure on who is gonna to win, always bet on Hakari" 🎰
 
 ### Skills
 
